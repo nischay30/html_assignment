@@ -1,0 +1,300 @@
+body
+{
+	font-family: 'Philosopher', sans-serif;
+}
+header
+{
+	background: black;
+	height: 110px;
+	width: 100%;
+	position: fixed;
+}
+
+header img
+{
+	width: 180px;
+	height: 110px;
+	float: left;
+}
+
+nav
+{
+	float:right;
+	width: 1400px;
+	padding-top: 20px;
+}
+
+nav h2 
+{
+
+	padding-top: 20px;
+	color: #FFD700;
+	padding-left: 150px;
+	margin-right: 400px;
+	font-size: 38px;	
+	float: left;
+}
+
+nav ul
+{
+	padding-top: 30px;
+}
+nav ul li
+{
+
+	text-decoration: none;
+	display: inline;
+	/*float: right;*/
+}
+
+nav ul li a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+
+
+
+
+#img-hero
+{
+	margin-top: 150px;
+	background: url('/Images/image.jpg')no-repeat ;
+	height: 600px;
+	width: 1200px;
+}
+
+#img-hero h1
+{
+	font-size: 29px;
+	color: white;
+	text-align: center;
+}
+
+.world h1
+{
+	text-align: center;
+	font-size: 48px;
+	text-transform: uppercase;
+	font-family: ;
+}
+
+.first img
+{
+	width: 280px;
+	height: 220px;
+
+}
+.first p
+{
+	padding-top: 10px;
+	font-size: 18px;
+
+	text-align: center;
+}
+
+.second img
+{
+		width: 280px;
+	height: 220px;
+
+}
+
+.second p
+{
+	padding-top: 10px;
+	font-size: 18px;
+	text-align: center;
+}
+.third img
+{
+		width: 280px;
+	height: 220px;
+
+}
+
+.third p
+{
+	padding-top: 10px;
+	font-size: 18px;
+	text-align: center;
+}
+
+
+.model h1
+{
+	text-align: center;
+	font-size: 48px;
+	text-transform: uppercase;
+	font-family: cursive;
+	color: blue;
+}
+
+.venon img
+{
+	width: 450px;
+	height: 314px;
+}
+
+.venon a
+{
+	padding-top: 4px;
+	padding-bottom: -5px;
+	margin-left: 170px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.venon a:hover
+{
+	font-size: 28px;
+	color: blue;
+	cursor: pointer;
+}
+
+.rt-text
+{
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+.hurara img
+{
+	width: 450px;
+	height: 380px;
+}
+
+.hurara a
+{
+	padding-top: 4px;
+	padding-bottom: -5px;
+	margin-left: 170px;
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: none;
+
+}
+
+.hurara a:hover
+{
+		font-size: 28px;
+	color: blue;
+	cursor: pointer;
+
+}
+.huraratxt
+{
+	font-size: 16px;
+	margin-bottom: 25px;
+}
+
+.avent img
+{
+	clear: both;
+	overflow: hidden;
+	width: 450px;
+	height: 380px;
+}
+
+.avent a
+{
+	padding-top: 3px;
+	padding-bottom: -5px;
+	margin-left: 170px;
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: none;
+
+}
+
+.avent a:hover
+{
+	font-size: 28px;
+	color: blue;
+	cursor: pointer;
+
+}
+.aventador
+{
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+
+
+footer
+{
+	float: left;
+	background: black;
+	height: 100px;
+	width: 100%;
+}
+
+footer h1
+{
+	margin-top: 10px;
+	/*padding-top: 30px;*/
+	color: #FFD700;
+	float: left;
+	width: 320px;
+	/*font-size: 38px;	*/
+}
+
+footer ul
+{
+	/*width: 200px;*/
+margin-top: 10px;
+	float: right;
+}
+
+
+
+footer li
+{
+
+	display: inline;
+	text-decoration: none;
+	color: white;
+
+}
+
+footer li:hover
+{
+	cursor: pointer;
+}
+
+
+
+
+#huracan-hero
+{
+	margin-top: 150px;
+	background: url('/Images/huracan.gif')no-repeat ;
+	height: 600px;
+	width: 1200px;
+}
+
+#huracan-hero h1
+{
+	font-size: 29px;
+	color: #FFD700;
+
+}
+
+#venon-hero
+{
+	margin-top: 150px;
+	background: url('/Images/veneno1.jpg')no-repeat ;
+	height: 600px;
+	width: 1200px;
+}
+
+#venon-hero h1
+{
+	font-size: 29px;
+	color: #FFD700;
+
+}
